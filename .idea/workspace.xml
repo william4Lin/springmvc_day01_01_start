@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db7783d5-a581-433e-b3f1-0e7c15ab6580" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="db7783d5-a581-433e-b3f1-0e7c15ab6580" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../springmvc_day02_01_respone/target/" />
@@ -486,8 +484,16 @@
       <workItem from="1591144829771" duration="8130000" />
       <workItem from="1591155223714" duration="13787000" />
       <workItem from="1591231341842" duration="20166000" />
-      <workItem from="1591256242855" duration="5069000" />
+      <workItem from="1591256242855" duration="5390000" />
     </task>
+    <task id="LOCAL-00001" summary="springmvc学习代码提交">
+      <created>1591261578230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591261578230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -523,7 +529,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75973000" />
+    <option name="totallyTimeSpent" value="76294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -565,6 +571,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springmvc学习代码提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="springmvc学习代码提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../springmvc_day02_01_respone/src/main/java/com/william/controller/UserController.java">
