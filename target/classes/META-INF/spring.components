@@ -1,0 +1,5 @@
+#
+#Tue Jun 02 18:36:54 CST 2020
+com.william.controller.HelloController=org.springframework.stereotype.Component
+com.william.controller.AnnoController=org.springframework.stereotype.Component
+com.william.controller.ParamController=org.springframework.stereotype.Component
